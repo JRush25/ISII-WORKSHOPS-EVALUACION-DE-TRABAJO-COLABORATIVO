@@ -3,9 +3,18 @@ package ec.edu.espol.workshops;
 import java.util.Scanner;
 
 public class CarInsurance {
-	private double premiumBase = 500;
-	private double premiumTotal;
+	private static double premiumBase = 500;
 	
+	public static double calculatePremiumTotal(int age, char gender, boolean status) {
+		if(age<25 && gender =='M' && !status) {
+			return premiumBase+1500;
+		}else if (gender == 'F' || status) {
+			return premiumBase - 200;
+		}else if (age>=45 && age <65) {
+			return premiumBase - 100;
+		}else
+			return premiumBase;
+	}
 	public static void main (String[] args) {
 		int opGender, opstatus;
 		String oplicense;
@@ -54,7 +63,8 @@ public class CarInsurance {
 			}while(!oplicense.equals("Y") && !oplicense.equals("N"));
 		
 		if (customer.validatePolicies(customer.getAge(), customer.isValidLicense())){
-			System.out.println("OK");
+			System.out.print("The premium total is: ");
+			System.out.print(calculatePremiumTotal(customer.getAge(),customer.getGender(),customer.isMaritalStatus()));
 		}else {
 			System.out.println("Customer does not comply with policies");
 		}
