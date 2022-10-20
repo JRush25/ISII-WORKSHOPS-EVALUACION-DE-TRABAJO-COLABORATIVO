@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.50.0" timestamp="2022-10-20T15:40:28.890">
+<file name="src/main/java/ec/edu/espol/workshops/CarInsurance.java">
+<violation beginline="5" endline="72" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="72" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="72" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The class 'CarInsurance' has a Modified Cyclomatic Complexity of 8 (Highest = 11).
+</violation>
+<violation beginline="5" endline="72" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The class 'CarInsurance' has a Modified Cyclomatic Complexity of 8 (Highest = 11).
+</violation>
+<violation beginline="5" endline="72" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The class 'CarInsurance' has a Standard Cyclomatic Complexity of 8 (Highest = 11).
+</violation>
+<violation beginline="5" endline="72" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The class 'CarInsurance' has a Standard Cyclomatic Complexity of 8 (Highest = 11).
+</violation>
+<violation beginline="5" endline="72" begincolumn="0" endcolumn="0" rule="UseUtilityClass" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#useutilityclass" priority="3">
+UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+</violation>
+<violation beginline="5" endline="72" begincolumn="0" endcolumn="0" rule="UseUtilityClass" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#useutilityclass" priority="3">
+UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="8" endline="17" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="8" endline="17" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="CognitiveComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#cognitivecomplexity" priority="3">
+CognitiveComplexity: The method 'main(String)' has a cognitive complexity of 20, current threshold is 15
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="CognitiveComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#cognitivecomplexity" priority="3">
+CognitiveComplexity: The method 'main(String)' has a cognitive complexity of 20, current threshold is 15
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="CyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#cyclomaticcomplexity" priority="3">
+CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 14.
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="CyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#cyclomaticcomplexity" priority="3">
+CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 14.
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 11.
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 11.
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="NPathComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#npathcomplexity" priority="3">
+NPathComplexity: The method 'main(String)' has an NPath complexity of 250, current threshold is 200
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="NPathComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#npathcomplexity" priority="3">
+NPathComplexity: The method 'main(String)' has an NPath complexity of 250, current threshold is 200
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 11.
+</violation>
+<violation beginline="18" endline="71" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 11.
+</violation>
+<violation beginline="19" endline="19" begincolumn="0" endcolumn="0" rule="OneDeclarationPerLine" ruleset="Code Style" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_codestyle.html#onedeclarationperline" priority="1">
+OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+</violation>
+<violation beginline="19" endline="19" begincolumn="0" endcolumn="0" rule="OneDeclarationPerLine" ruleset="Code Style" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_codestyle.html#onedeclarationperline" priority="1">
+OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+</violation>
+<violation beginline="22" endline="22" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="22" endline="22" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="27" endline="27" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="27" endline="27" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="28" endline="28" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="28" endline="28" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="29" endline="29" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="29" endline="29" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="31" endline="31" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="31" endline="31" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="33" endline="33" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="33" endline="33" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="36" endline="36" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="36" endline="36" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="40" endline="40" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="40" endline="40" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="41" endline="41" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="41" endline="41" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="42" endline="42" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="42" endline="42" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="44" endline="44" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="44" endline="44" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="46" endline="46" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="46" endline="46" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="49" endline="49" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="49" endline="49" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="53" endline="53" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="53" endline="53" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="55" endline="55" begincolumn="0" endcolumn="0" rule="UseLocaleWithCaseConversions" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#uselocalewithcaseconversions" priority="3">
+UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+</violation>
+<violation beginline="55" endline="55" begincolumn="0" endcolumn="0" rule="UseLocaleWithCaseConversions" ruleset="Error Prone" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#uselocalewithcaseconversions" priority="3">
+UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+</violation>
+<violation beginline="56" endline="56" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="56" endline="56" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="56" endline="56" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="56" endline="56" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="58" endline="58" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="58" endline="58" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="58" endline="58" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="58" endline="58" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="61" endline="61" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="61" endline="61" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInComparisons" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincomparisons" priority="3">
+PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="66" endline="66" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="66" endline="66" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="67" endline="67" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="67" endline="67" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="69" endline="69" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="69" endline="69" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="ec.edu.espol.workshops" class="CarInsurance" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+</file>
+<file name="src/main/java/ec/edu/espol/workshops/Customer.java">
+<violation beginline="3" endline="46" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="3" endline="46" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="3" endline="46" begincolumn="0" endcolumn="0" rule="DataClass" ruleset="Design" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#dataclass" priority="3">
+DataClass: The class 'Customer' is suspected to be a Data Class (WOC=10.000%, NOPA=0, NOAM=8, WMC=12)
+</violation>
+<violation beginline="3" endline="46" begincolumn="0" endcolumn="0" rule="DataClass" ruleset="Design" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#dataclass" priority="3">
+DataClass: The class 'Customer' is suspected to be a Data Class (WOC=10.000%, NOPA=0, NOAM=8, WMC=12)
+</violation>
+<violation beginline="4" endline="4" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="4" endline="4" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="6" endline="6" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="16" endline="17" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="16" endline="17" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="16" endline="17" begincolumn="0" endcolumn="0" rule="UncommentedEmptyConstructor" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#uncommentedemptyconstructor" priority="3">
+UncommentedEmptyConstructor: Document empty constructor
+</violation>
+<violation beginline="16" endline="17" begincolumn="0" endcolumn="0" rule="UncommentedEmptyConstructor" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#uncommentedemptyconstructor" priority="3">
+UncommentedEmptyConstructor: Document empty constructor
+</violation>
+<violation beginline="38" endline="44" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="38" endline="44" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="39" endline="43" begincolumn="0" endcolumn="0" rule="SimplifyBooleanReturns" ruleset="Design" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#simplifybooleanreturns" priority="3">
+SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+</violation>
+<violation beginline="39" endline="43" begincolumn="0" endcolumn="0" rule="SimplifyBooleanReturns" ruleset="Design" package="ec.edu.espol.workshops" class="Customer" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#simplifybooleanreturns" priority="3">
+SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+</violation>
+</file>
+<file name="src/main/java/ec/edu/espol/workshops/Library.java">
+<violation beginline="6" endline="10" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Library" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="6" endline="10" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Library" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="7" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Library" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="7" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="Library" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+</file>
+<file name="src/test/java/ec/edu/espol/workshops/LibraryTest.java">
+<violation beginline="9" endline="14" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="LibraryTest" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="9" endline="14" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="ec.edu.espol.workshops" class="LibraryTest" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+</file>
+</pmd>

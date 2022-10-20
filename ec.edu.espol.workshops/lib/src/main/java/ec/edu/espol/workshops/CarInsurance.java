@@ -3,6 +3,10 @@ package ec.edu.espol.workshops;
 import java.util.Scanner;
 
 public class CarInsurance {
+	/**
+	 * @field premiumBase
+	 * Precio Base de Premium
+	 */
 	private static double premiumBase = 500;
 	
 	public static double calculatePremiumTotal(int age, char gender, boolean status) {
@@ -16,7 +20,8 @@ public class CarInsurance {
 			return premiumBase;
 	}
 	public static void main (String[] args) {
-		int opGender, opstatus;
+		int opGender; 
+		int opstatus;
 		String oplicense;
 		Customer customer = new Customer();
 		Scanner sc = new Scanner(System.in);
