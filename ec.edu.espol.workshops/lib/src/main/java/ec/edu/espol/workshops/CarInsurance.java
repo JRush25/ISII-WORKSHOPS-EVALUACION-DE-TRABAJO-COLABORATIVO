@@ -1,5 +1,6 @@
 package ec.edu.espol.workshops;
 
+import java.util.Locale;
 import java.util.Scanner;
 /**
  * @class CarInsurance
@@ -35,7 +36,7 @@ int opGender;
 int opstatus;
 String oplicense;
 Customer customer = new Customer();
-Scanner sc = new Scanner(System.in);
+Scanner sc = new Scanner(System.in, "UTF-8");
 System.out.println("*****CAR INSURANCE*****");
 System.out.println("Enter the customer's age:");
 customer.setAge(sc.nextInt());
@@ -68,7 +69,7 @@ System.out.println("Enter a valid option.");
     do {
 System.out.println("Does the customer have a valid license? Y/N:");
 oplicense = sc.nextLine();
-oplicense = oplicense.toUpperCase();
+oplicense = oplicense.toUpperCase(Locale.ROOT);
       if (oplicense.equals("Y")) {
 customer.setValidLicense(true);
       } else if (oplicense.equals("N")) {
