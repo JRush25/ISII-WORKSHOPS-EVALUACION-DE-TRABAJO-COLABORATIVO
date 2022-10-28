@@ -17,14 +17,12 @@ public class CarInsurance {
  * Metodo para el calculo total
  */
   public static double calculatePremiumTotal(int age, char gender, boolean status) {
-    if(age < 18) {
-    	return -1; 
+    if(age <25 && gender =='M' && !status) {
+return premiumBase +1500;
     } else if (gender == 'F' || status) {
 return premiumBase - 200;
     } else if (age >=45 && age <65) {
 return premiumBase - 100;
-    } else if(age <25 && gender =='M' && !status) {
-    	return premiumBase +1500;
     } else
 return premiumBase;
   }
