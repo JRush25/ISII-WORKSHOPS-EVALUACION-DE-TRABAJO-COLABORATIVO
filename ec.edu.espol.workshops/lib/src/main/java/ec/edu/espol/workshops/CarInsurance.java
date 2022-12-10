@@ -11,7 +11,7 @@ public class CarInsurance {
  * @field premiumBase
  * Precio Base de Premium
  */
-  private static double premiumBase = 500;
+  private static double premiumBase = 600;
 /**
  * @method calculatePremiumTotal
  * Metodo para el calculo total
